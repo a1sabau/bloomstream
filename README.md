@@ -1,4 +1,4 @@
-# bloomstream
+# BloomStream
 
 BloomStream [1] is implemented in C++ with an R interface for the Stream R package [2]. 
 Throughout the code BloomStream is referred as HCStream, the original name used prior to publishing the arxiv version.
@@ -12,6 +12,6 @@ library(hcstream)
 
 References:
 
-[1] - Sabau, Andrei Sorin. ["Stream Clustering using Probabilistic Data Structures."]() arXiv preprint arXiv:1612.02701 (2016).
+[1] Sabau, Andrei Sorin. ["Stream Clustering using Probabilistic Data Structures."](https://arxiv.org/abs/1612.02701) arXiv preprint arXiv:1612.02701 (2016).
 
-[2] - Hahsler, M., M. Bolanos, and J. Forrest. ["stream: Infrastructure for Data Stream Mining. R package version 1.2."](https://CRAN.R-project.org/package=stream)
+[2] Hahsler, M., M. Bolanos, and J. Forrest. ["stream: Infrastructure for Data Stream Mining. R package version 1.2."](https://CRAN.R-project.org/package=stream)
